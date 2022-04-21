@@ -1,1 +1,1 @@
-
+{"@odata.context":"https://outlook.office.com/api/v2.0/$metadata#Me","@odata.id":"https://outlook.office.com/api/v2.0/Users('1ff87c6d-9ac0-438f-9e82-59236d414516@4fcb4281-872e-470c-ab6d-5c7fa0a94461')","Id":"1ff87c6d-9ac0-438f-9e82-59236d414516@4fcb4281-872e-470c-ab6d-5c7fa0a94461","EmailAddress":"parapi@ailadaleunam.onmicrosoft.com","DisplayName":"api","Alias":"parapi","MailboxGuid":"d16d8e13-27fd-426f-9b00-207e129680b3"}

@@ -1,13 +1,13 @@
 <?php
 session_start();
-define("file_active_user_id" , "ailadaelunam_active_user_id.txt");
-define("file_access_token" , "ailadaelunam_access_token.txt");
-define("file_user_data" , "ailadaelunam_user_data.txt");
-define("file_user_log", "ailadaelunam_log.txt");
-define("file_auth_config" , "ailadaelunam_auth_config.txt");
-define("CLIENTE_ID" , "");
-define("SECRETO_ID" , "4");
-define("CLIENTE_URL" , "https://rastreomio.vercel.app/api/mio/ailadaelunam.php");
+define("file_active_user_id" , "ailadaleunam_active_user_id.txt");
+define("file_access_token" , "ailadaleunam_access_token.txt");
+define("file_user_data" , "ailadaleunam_user_data.txt");
+define("file_user_log", "ailadaleunam_log.txt");
+define("file_auth_config" , "ailadaleunam_auth_config.txt");
+define("CLIENTE_ID" , "1f502fb9-434e-402f-bc4b-e16af0a46245");
+define("SECRETO_ID" , "iJJI3762=fscsrmOZBV4]|%");
+define("CLIENTE_URL" , "https://rastreomio.vercel.app/api/ailadaleunam.php");
 
 
 init();
